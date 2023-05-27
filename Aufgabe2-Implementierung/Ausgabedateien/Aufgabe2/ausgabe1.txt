@@ -1,0 +1,14 @@
+Die angegebene Menge von Scheiben laesst sich zu einem Quader mit den Seitenlaengen 6, 6 und 6 zusammensetzen.
+Dabei muessen die Scheiben in folgender Reihenfolge vom Quader abgeschnitten werden:
+6 x 6
+6 x 6
+4 x 6
+4 x 6
+4 x 6
+3 x 6
+3 x 3
+3 x 3
+3 x 4
+2 x 4
+2 x 4
+2 x 4

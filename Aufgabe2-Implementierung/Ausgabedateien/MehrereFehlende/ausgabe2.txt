@@ -1,0 +1,14 @@
+Die Scheiben werden in der folgenden Reihenfolge vom Quader abgeschnitten:
+
+6 x 6
+6 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+4 x 6
+4 x 6
+4 x 6
+3 x 6
+3 x 3
+3 x 3
+3 x 4
+2 x 4
+2 x 4
+2 x 4

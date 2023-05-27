@@ -1,0 +1,48 @@
+Es gilt P(1) = 0
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(1) = 0 ist:
+( 1 )
+
+Es gilt P(2) = 1
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(2) = 1 ist:
+( 2 1 )
+
+Es gilt P(3) = 2
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(3) = 2 ist:
+( 2 3 1 )
+
+Es gilt P(4) = 2
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(4) = 2 ist:
+( 2 3 1 4 )
+
+Es gilt P(5) = 3
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(5) = 3 ist:
+( 1 5 2 4 3 )
+
+Es gilt P(6) = 3
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(6) = 3 ist:
+( 2 6 3 1 4 5 )
+
+Es gilt P(7) = 4
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(7) = 4 ist:
+( 7 1 6 3 5 4 2 )
+
+Es gilt P(8) = 5
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(8) = 5 ist:
+( 4 6 3 7 1 8 5 2 )
+
+Es gilt P(9) = 5
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(9) = 5 ist:
+( 7 9 1 6 3 5 8 4 2 )
+
+Es gilt P(10) = 6
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(10) = 6 ist:
+( 4 9 5 1 6 2 7 10 3 8 )
+
+Es gilt P(11) = 6
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(11) = 6 ist:
+( 4 8 5 3 6 1 9 7 11 2 10 )
+
+Es gilt P(12) = 7
+Ein beispielhafter Pfannkuchenstapel S mit A(S) = P(12) = 7 ist:
+( 6 10 7 3 8 1 12 4 9 11 5 2 )
+

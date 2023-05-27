@@ -1,0 +1,7 @@
+Die angegebene Menge von Scheiben laesst sich zu einem Quader mit den Seitenlaengen 2, 1000 und 1000 zusammensetzen.
+Dabei muessen die Scheiben in folgender Reihenfolge vom Quader abgeschnitten werden:
+2 x 1000
+2 x 1000
+2 x 998
+998 x 999
+998 x 999

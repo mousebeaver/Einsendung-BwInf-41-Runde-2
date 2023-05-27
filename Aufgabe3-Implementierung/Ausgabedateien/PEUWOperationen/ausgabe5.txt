@@ -1,0 +1,23 @@
+Fuer das Sortieren des Stapels ( 4 13 10 8 2 3 7 9 14 1 12 6 5 11 ) werden mindestens 6 PEUW-Operationen benoetigt.
+Es ist also A( 4 13 10 8 2 3 7 9 14 1 12 6 5 11 ) = 6.
+Folgende Operationen sortieren den Stapel mit der minimalen Anzahl an Schritten:
+
+Nach Anwenden der PEUW-Operation auf die ersten 7 Pfannkuchen:
+( 7 3 2 8 10 13 9 14 1 12 6 5 11 )
+
+Nach Anwenden der PEUW-Operation auf die ersten 9 Pfannkuchen:
+( 1 14 9 13 10 8 2 3 12 6 5 11 )
+
+Nach Anwenden der PEUW-Operation auf die ersten 3 Pfannkuchen:
+( 9 14 13 10 8 2 3 12 6 5 11 )
+
+Nach Anwenden der PEUW-Operation auf die ersten 11 Pfannkuchen:
+( 11 5 6 12 3 2 8 10 13 14 )
+
+Nach Anwenden der PEUW-Operation auf die ersten 4 Pfannkuchen:
+( 12 6 5 3 2 8 10 13 14 )
+
+Nach Anwenden der PEUW-Operation auf die ersten 5 Pfannkuchen:
+( 2 3 5 6 8 10 13 14 )
+
+Damit ist der Pfannkuchenstapel sortiert.

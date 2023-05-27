@@ -1,0 +1,13 @@
+Die Scheiben werden in der folgenden Reihenfolge vom Quader abgeschnitten:
+
+6 x 6
+6 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+6 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+6 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+2 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+2 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+4 x 6
+1 x 6 (Diese Scheibe hatte Antje schon aufgegessen)
+1 x 3 (Diese Scheibe hatte Antje schon aufgegessen)
+1 x 3 (Diese Scheibe hatte Antje schon aufgegessen)
+3 x 4

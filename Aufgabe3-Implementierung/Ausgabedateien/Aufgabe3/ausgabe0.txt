@@ -1,0 +1,11 @@
+Fuer das Sortieren des Stapels ( 3 2 4 5 1 ) werden mindestens 2 PWUE-Operationen benoetigt.
+Es ist also A( 3 2 4 5 1 ) = 2.
+Folgende Operationen sortieren den Stapel mit der minimalen Anzahl an Schritten:
+
+Nach Anwenden der PWUE-Operation auf die ersten 5 Pfannkuchen:
+( 5 4 2 3 )
+
+Nach Anwenden der PWUE-Operation auf die ersten 4 Pfannkuchen:
+( 2 4 5 )
+
+Damit ist der Pfannkuchenstapel sortiert.
